@@ -13,10 +13,10 @@
 
 ## Contributors
 
-- **Usman**
-- **Awab**
-- **Radowan**
-- **Hasan**
+- ** Muhammed Usman**
+- **Awab Isam**
+- **Radowan Ahmed**
+- **Hasan Ammar**
 
 ## Installation Guide
 
