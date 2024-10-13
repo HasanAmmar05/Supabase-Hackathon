@@ -13,7 +13,7 @@
 
 ## Contributors
 
-- ** Muhammed Usman**
+- **Muhammed Usman**
 - **Awab Isam**
 - **Radowan Ahmed**
 - **Hasan Ammar**
